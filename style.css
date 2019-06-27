@@ -1,0 +1,20 @@
+body {
+    background: linear-gradient(to right top, #051937, #a8eb12);
+    background-repeat: no-repeat;
+    height: 100vh;
+    overflow: hidden;
+    text-align: center;
+}
+div#generator {
+    margin: auto;
+}
+h3 {
+    width: 32%;
+    margin: auto;
+    padding: 1%;   
+}
+.background {
+    background-color: rgba(51, 50, 50, 0.3);
+    border-left: 4px solid white;
+    color: white;
+}
