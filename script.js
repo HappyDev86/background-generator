@@ -1,3 +1,10 @@
+var _ = require('lodash');
+
+console.log(_);
+
+const array = [1,2,3,4,5,6,7,8];
+console.log(`answer : ${_.without(array, 3)}`);
+
 var color1 = document.getElementById('color1');
 var color2 = document.getElementById('color2');
 var h3 = document.querySelector('h3');
